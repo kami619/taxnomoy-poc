@@ -332,4 +332,4 @@ document:
   repo: https://github.com/kami619/taxnomoy-poc.git
   commit: 9f92962d52f0063bef3ceeb911c86f714921f266
   patterns:
-    - bmo.pdf
+    - knowledge/finance/BMO/bmo.pdf
